@@ -1,1 +1,2 @@
-python run.py ./data/input.txt ./data/output.txt
+python run.py ./data/input.txt ./data/output.csv
+
